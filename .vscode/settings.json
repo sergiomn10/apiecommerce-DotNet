@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "ApiEcommerce\\bin\\Release\\net9.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/dd87a095-34a8-40b3-90ee-dd4f0f91f717/resourceGroups/GrupoParaApiEcommerceCurso/providers/Microsoft.Web/sites/ecommerce-api-curso"
+}
